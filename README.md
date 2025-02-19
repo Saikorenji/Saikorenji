@@ -51,8 +51,7 @@
 
 ### 📫 Me Contacter  
 
-📧 **Email :** [saikojesuispas@gmail.com]    
-💬 **Discord :** [saikotarotta]  
+📧 **Email :** [saikojesuispas@gmail.com]     
 
 N'hésite pas à me contacter ou à contribuer à mes projets ! 🚀
 
