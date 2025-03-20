@@ -9,7 +9,7 @@
 ### 🚀 À propos de moi  
 
 🔹 Étudiant en développement web et applications.  
-🔹 Passionné par les technologies web, l'architecture logicielle et le DevOps.  
+🔹 Passionné par les technologies web, l'architecture logicielle et le jeu-vidéo.  
 🔹 Actuellement, je travaille sur plusieurs projets :
   - 🛠️ **Mon site personnel**
   - 🤖 **Un chatbot intelligent avec Node.js & Cohere**
