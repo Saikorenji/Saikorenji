@@ -49,12 +49,4 @@
 
 ---
 
-### 📫 Me Contacter  
-
-📧 **Email :** [saikojesuispas@gmail.com]     
-
-N'hésite pas à me contacter ou à contribuer à mes projets ! 🚀
-
----
-
 ⭐️ Inspiré par d'autres développeurs et toujours en quête de nouvelles connaissances !
